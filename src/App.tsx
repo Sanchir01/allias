@@ -71,7 +71,7 @@ function App() {
 		setIsActive(false)
 	}
 	return (
-		<div className='flex flex-col items-center w-screen min-h-screen gap-10 mx-auto text-black jc'>
+		<div className='flex flex-col items-center justify-center w-screen min-h-screen gap-10 text-black'>
 			<div className='flex gap-2'>
 				<div className='flex flex-col items-center gap-1'>
 					<div className=''>Игрок 1</div>
